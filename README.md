@@ -13,13 +13,13 @@
 
 อ้างอิง: [wiki Golang](https://en.wikipedia.org/wiki/Go_(programming_language))
 ## ทำไมต้องภาษา Golang + แนวคิดของภาษา
-<b>แนวคิดของภาษา Go </b>
+### แนวคิดของภาษา Go
 
 <i> "Build fast, reliable, and efficient software at scale" </i>
 
 ตัวภาษาเกิดขึ้นใน google ที่นำมาจัดการเรื่อง network และ cloud ซึ่งจะโดดเด่นเรื่องการจัดการ network และ memory อีกทั้งยังตอบโจทย์เรื่องของ scale อีกด้วย ซึ่งสามารถทำไปใช้งาน [Cloud & Network Services](https://go.dev/solutions/cloud/), [Web Development](https://go.dev/solutions/webdev/), [Command-line Interfaces (CLIs)](https://go.dev/solutions/clis/) และ [Development Operations & Site Reliability Engineering (SRE)](https://go.dev/solutions/devops/)
 
-<b> ทำไมต้องเลือกภาษา Go </b>
+### ทำไมต้องเลือกภาษา Go
 
 <b> ง่ายต่อการเรียนรู้(Easy to learn) </b>
 >ในตอนนั้น 1 ในสมาชิกของทีมคนที่รู้จัก Go แต่ผ่านไป 1 เดือน ทุกคนในทีมสามารถเขียน Go ได้และยังสร้าง enpoints ขึ้นมาได้ มันเป็นมีความยืดหยุ่นของการใช้งานและ แนวคิดของมันโคตรเจ๋ง(วิธีจัดการกับ native concurrency, การจัดการ... และ ลดต้นทุน+ความเร็ว) นั้นช่วยให้นักพัฒนาระหว่างทำงาน นอกจากนี้ตัวสัญลักษณ์น่ารักอีกด้วย 
