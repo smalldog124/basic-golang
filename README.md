@@ -33,7 +33,6 @@
 >>[Matt Boyle, lead software engineer at Curve](https://www.computerweekly.com/blog/Open-Source-Insider/Golang-or-go-home-how-Curve-is-taking-Golang-to-new-heights)
 ## หัวข้อที่จะได้เรียน
 วันแรก
-- life cycle
 - hello world
 - go build
 - variables
