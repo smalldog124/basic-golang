@@ -36,8 +36,9 @@
 - hello world
 - go build
 - variables
-- for, for reage
-- array,slices,maps
+- array
+- slices
+- maps
 - structs
 
 วันที่สอง
